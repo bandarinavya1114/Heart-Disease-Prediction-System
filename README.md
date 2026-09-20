@@ -1,6 +1,4 @@
 # Heart-Disease-Prediction-System
-Binary classification model (Logistic Regression) predicting heart disease risk from patient health data, with a focus on preprocessing and feature engineering.
-# Heart Disease Prediction System
 
 A binary classification model that predicts heart disease risk from patient
 health data using Logistic Regression.
