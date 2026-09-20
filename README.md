@@ -46,12 +46,6 @@ records, and the features used. -->
 4. **Evaluation** — assessed model performance and iterated on preprocessing
    to improve reliability
 
-## Results
-<!-- Fill in your actual numbers here — this is the single most valuable part
-of the README for a recruiter skimming it. -->
-- **Accuracy:** _[add %]_
-- **Precision / Recall / F1-score:** _[add if available]_
-- Key takeaway: _[e.g. "Feature engineering improved accuracy by X% over the baseline model"]_
 
 ## How to Run
 ```bash
